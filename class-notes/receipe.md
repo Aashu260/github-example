@@ -4,3 +4,5 @@
 hello
 practice
 change
+
+Music is playing
